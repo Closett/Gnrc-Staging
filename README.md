@@ -1,5 +1,5 @@
 # Gnrc-Staging
-It's staging man!
+It's staging baby!
 
 
 Currently only used for storing lines of code I might/may not use in the future.
